@@ -6,7 +6,3 @@ var logDetails = function (uid, item) {
 var greet = function (user) {
     console.log(user.name + " has id equals to " + user.uid);
 };
-greet.user = {
-    name: 'shivani',
-    uid: 1234,
-};

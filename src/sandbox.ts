@@ -121,7 +121,3 @@ const greet = (user: objWithName) => {
     console.log(`${user.name} has id equals to ${user.uid}`)
 }
 
-greet.user = {
-    name: 'shivani',
-    uid: 1234,
-}
